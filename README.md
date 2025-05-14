@@ -1,66 +1,66 @@
 # 📊 Project objective:
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 ## 🔍 Tech stacks :
- SQL
+- SQL
 
- PowerBi Desktop
+- PowerBi Desktop
 
- Excel
+- Excel
 
- DAX language
+- DAX language
 
- DAX studio (for optimizing the report)
+- DAX studio (for optimizing the report)
 
- Project charter file
+- Project charter file
 
 PowerBI techniques Learnt :
  Creating calculated columns
 
- creating measure using DAX language
+- creating measure using DAX language
 
- Data modeling
+- Data modeling
 
- Using Bookmarks to switch between two visuals
+- Using Bookmarks to switch between two visuals
 
- Page navigation with buttons
+- Page navigation with buttons
 
- Using divide function to prevent zero division errors
+- Using divide function to prevent zero division errors
 
- creating date table using m language
+- creating date table using m language
 
- Dynamic titles based on the applied filters
+- Dynamic titles based on the applied filters
 
- Using KPI indicators
+- Using KPI indicators
 
- Conditional formatting the values in visuals using icons or background color
+- Conditional formatting the values in visuals using icons or background color
 
- Data validation techniques
+- Data validation techniques
 
- PowerBi services
+- PowerBi services
 
- Publishing reports to PowerBi services
+- Publishing reports to PowerBi services
 
- Setting up personal gateway to set up the auto refresh of data
+- Setting up personal gateway to set up the auto refresh of data
 
- PowerBi App creation
+- PowerBi App creation
 
- Collaboration, workspace, access permissions in PowerBi services
+- Collaboration, workspace, access permissions in PowerBi services
 
 Business related terms:
- Gross price
- Pre-invoice deductions
- Post-Invoice deductions
- Net Invoice sale
- Gross Margin
- Net sales
- Net profit
- COGC - cost of goods sold
- YTD - Year to Date
- YTG - Year to Go
- Direct
- Retailer
- Distributors
- Consumer
+- Gross price
+- Pre-invoice deductions
+- Post-Invoice deductions
+- Net Invoice sale
+- Gross Margin
+- Net sales
+- Net profit
+- COGC - cost of goods sold
+- YTD - Year to Date
+- YTG - Year to Go
+- Direct
+- Retailer
+- Distributors
+- Consumer
 ## 📷 Screenshots
 
 ### Overview
@@ -74,4 +74,4 @@ Business related terms:
 
 Live Dashboard Link:
 
-https://app.powerbi.com/view?r=eyJrIjoiNTM2NmNjYjktM2M5Ny00YTc2LTgwMWQtM2UzZjZiMGQ2ZTIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+http://bit.ly/44yrUez

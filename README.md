@@ -61,16 +61,6 @@ Business related terms:
 - Retailer
 - Distributors
 - Consumer
-## 📷 Screenshots
-
-### Overview
-![Dashboard Overview](screenshots/overview.png)
-
-### Sales Trend
-![Sales Trend](screenshots/sales_trend.png)
-
-### Regional Performance
-![Region Breakdown](screenshots/region_breakdown.png)
 
 Live Dashboard Link:
 
